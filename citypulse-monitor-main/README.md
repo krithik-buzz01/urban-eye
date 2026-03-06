@@ -1,73 +1,109 @@
-# Welcome to your Lovable project
+ 🏙 Urban Eye – Smart Infrastructure Monitoring System
 
-## Project info
+Urban Eye is a smart city infrastructure monitoring platform designed to analyze and optimize the usage of urban resources such as roads, utilities, and public infrastructure.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+The system provides real-time insights, predictive alerts, and intelligent recommendations to help cities prevent congestion, overload, and inefficient infrastructure usage.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+# 🚀 Key Features
 
-**Use Lovable**
+## 📊 Infrastructure Capacity Monitoring
+Tracks how city infrastructure resources are being used compared to their capacity.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Examples:
+- Road usage levels
+- Traffic congestion
+- Power grid load
+- Water system capacity
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🔮 Predictive Risk Detection
+The system predicts potential infrastructure problems before they occur.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Examples:
+- Traffic congestion prediction
+- Infrastructure overload alerts
+- Capacity risk warnings
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🧠 AI-Based Recommendations
+Urban Eye provides intelligent suggestions to improve infrastructure efficiency.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Example suggestions:
+- Redirect traffic to alternate routes
+- Optimize resource usage
+- Reduce congestion in high load areas
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 🗺 City Infrastructure Visualization
+Interactive map showing infrastructure status.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Color Indicators:
+- 🟢 Normal usage
+- 🟡 Medium load
+- 🔴 Overloaded zones
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🚨 Real-Time Alert System
+Automatically notifies when infrastructure capacity exceeds safe limits.
 
-**Use GitHub Codespaces**
+Example alerts:
+- Traffic overload
+- Power grid stress
+- Water demand surge
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+# 🛠 Tech Stack
 
-This project is built with:
-
-- Vite
-- TypeScript
+Frontend
 - React
-- shadcn-ui
 - Tailwind CSS
+- Vite
 
-## How can I deploy this project?
+Visualization
+- Chart.js
+- Leaflet Maps
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+Backend
+- Node.js
 
-## Can I connect a custom domain to my Lovable project?
+---
 
-Yes, you can!
+# 📌 Use Case
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Urban Eye helps city planners, infrastructure managers, and governments to:
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+- Monitor infrastructure usage
+- Prevent overload situations
+- Improve city efficiency
+- Support smart city development
+
+---
+
+# 💡 Future Improvements
+
+- AI-based traffic optimization
+- IoT sensor integration
+- Real-time infrastructure data
+- Smart city simulation models
+
+---
+
+# 👨‍💻 Author
+
+Krithik
+
+GitHub  
+https://github.com/krithik-buzz01
+
+---
+
+# 🏆 Hackathon Project
+
+This project was developed as a prototype for a Smart City Infrastructure Monitoring System in a hackathon environment.
